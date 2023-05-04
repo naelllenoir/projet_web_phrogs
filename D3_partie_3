@@ -1,22 +1,7 @@
 # pip install pandas
-# pip install d3blocks
-
-# Import library
-from d3blocks import D3Blocks
-
-# Initialize
-d3 = D3Blocks()
-
 
 from collections import defaultdict
 import pandas as pd
-
-'''
-scatter plot avec un point par annotation fonctionnelle
-◦ en x : nombre de protéines dans des OGs ayant cette annotation
-◦ en y : nombre d’OGs ayant cette annotation
-◦ une couleur par grande catégorie fonctionnelle
-'''
 
 dicOG=defaultdict(list)
 phrog=0
@@ -42,19 +27,4 @@ final=pd.concat([xaxis, yaxis], axis=1).reset_index()
 final['annotation']=final['annot']
 final.loc[(final['lenOG'] < 3000) & (final['phrog'] < 50), 'annotation'] = '  '
 
-#print(final['lenOG'].values)
-#print(final['lenOG'])
 final.to_csv("datafinal.csv", sep=("\t"))
-
-tooltip=final['category'] + '<br /> Nombre de protéines : ' + final['lenOG'].astype(str) + ' <br /> Nombre de PhROGs : ' + final['phrog'].astype(str)
-
-#print(xaxis, "\n", yaxis)
-#print(dfOG)
-#print(dftotal)
-
-#chart = Scatterplot(dftotal, {x: xaxis, y: yaxis, title: dftotal[annot], xlabel: "Number of proteins in PhROGs with this annotation", ylabel: "Number of PhROGs with this annotation", halo: dftotal[color]})
-
-#chart = d3.scatter(final['lenOG'].values, final['phrog'].values, color=final['color'].values, xlim=[0, 25000], ylim=[0, 400], tooltip=tooltip, filepath='/home/naelllenoir/nalenoir/prograM1/graphique.html')
-
-
-
