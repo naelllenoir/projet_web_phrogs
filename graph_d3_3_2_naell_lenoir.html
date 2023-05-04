@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Scatter Plot with D3.js</title>
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+  </head>
+  <body>
+    <svg width="600" height="400"></svg>
+    <script>
+      d3.tsv("https://raw.githubusercontent.com/naelllenoir/projet_web_phrogs/main/datafinal.csv").then(function(data) {
+        // Définition des dimensions du graphique
+        var margin = { top: 20, right: 20, bottom: 30, left: 40 },
+          width = 800 - margin.left - margin.right,
+          height = 500 - margin.top - margin.bottom;
+
+        // Création de l'élément SVG et ajout d'un groupe pour les éléments du graphique
+        var svg = d3
+          .select("svg")
+          .attr("width", width + margin.left + margin.right)
+          .attr("height", height + margin.top + margin.bottom)
+          .append("g")
+          .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+        // Mise à l'échelle des axes
+        var x = d3
+          .scaleLinear()
+          .domain([0, 22500])
+          .range([0, width]);
+
+        var y = d3
+          .scaleLinear()
+          .domain([0, 450])
+          .range([height, 0]);
+
+        // Ajout des axes au graphique
+        svg
+          .append("g")
+          .attr("transform", "translate(0," + height + ")")
+          .call(d3.axisBottom(x));
+
+        svg.append("g").call(d3.axisLeft(y));
+
+        // Ajout des points au graphique
+        svg
+          .selectAll("dot")
+          .data(data)
+          .enter()
+          .append("circle")
+          .attr("cx", function(d) {
+            return x(d.lenOG);
+          })
+          .attr("cy", function(d) {
+            return y(d.phrog);
+          })
+          .attr("r", 3)
+          .style("fill", function(d) {
+            return d.color;
+          });
+
+        // Ajout des labels au graphique
+        svg
+          .selectAll("text")
+          .data(data)
+          .enter()
+          .append("text")
+          .text(function(d) {
+            return d.annotation;
+          })
+          .attr("x", function(d) {
+            return x(d.lenOG);
+          })
+          .attr("y", function(d) {
+            return y(d.phrog) - 10;
+          })
+          .attr("text-anchor", "middle")
+          .attr("font-size", "12px")
+          .attr("fill", d => d.color );
+      });
+    </script>
+  </body>
+</html>
