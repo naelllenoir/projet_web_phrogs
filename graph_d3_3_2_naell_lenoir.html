@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
   <head>
     <meta charset="utf-8" />
     <title>Scatter Plot with D3.js</title>
@@ -10,8 +10,8 @@
     <script>
       d3.tsv("https://raw.githubusercontent.com/naelllenoir/projet_web_phrogs/main/datafinal.csv").then(function(data) {
         // Définition des dimensions du graphique
-        var margin = { top: 20, right: 20, bottom: 30, left: 40 },
-          width = 800 - margin.left - margin.right,
+        var margin = { top: 150, right: 450, bottom: 100, left: 75 },
+          width = 1200 - margin.left - margin.right,
           height = 500 - margin.top - margin.bottom;
 
         // Création de l'élément SVG et ajout d'un groupe pour les éléments du graphique
@@ -25,7 +25,7 @@
         // Mise à l'échelle des axes
         var x = d3
           .scaleLinear()
-          .domain([0, 22500])
+          .domain([0, 22000])
           .range([0, width]);
 
         var y = d3
@@ -33,6 +33,7 @@
           .domain([0, 450])
           .range([height, 0]);
 
+	
         // Ajout des axes au graphique
         svg
           .append("g")
@@ -76,7 +77,56 @@
           .attr("text-anchor", "middle")
           .attr("font-size", "12px")
           .attr("fill", d => d.color );
+
+	// Ajout du label de l'axe X 
+	svg
+          .append("text")
+          .attr("text-anchor", "middle")
+          .attr("x", width / 2)
+          .attr("y",  height + 50)
+          .text("Nombre de protéines de PhROGs avec cette annotation");
+
+       // Ajout du label de l'axe Y
+       svg
+         .append("text")
+         .attr("text-anchor", "middle")
+         .attr("transform", "rotate(-90)")
+         .attr("y", -margin.left + 15)
+         .attr("x", -height / 2)
+         .text("Nombre de PhROGs avec cette annotation");
+
+      // Ajout du titre
+      svg
+         .append("text")
+         .attr("text-anchor", "middle")
+         .attr("x", width / 2)
+         .attr("y", height - 350)
+         .text("Scatter plot du nombre de protéines et du nombre de PhROGs par annotation et catégorie fonctionnelle")
+         .style("text-decoration", "underline")
+         .style("font-weight", "bold");
+
+
+      // Ajout de la légende des couleurs
+        var legend = svg.selectAll(".legend")
+            .data([...new Set(data.map(d => d.category))])
+	    .enter().append("g")
+            .attr("class", "legend")
+            .attr("transform", function(d, i) { return "translate(0," + i * 20 + ")"; });
+
+        legend.append("circle")
+            .attr("cx", width + 40)
+	    .attr("cy", 0)
+            .attr("r", 5)
+            .attr("fill", d => data.find(e => e.category === d).color);
+	legend.append("text")
+	    .text(d => d) 
+            .attr("x", width + 56)
+            .attr("y", height - 250)
+            .attr("dy", ".35em")
+            .style("text-anchor", "start")
+ 	    
       });
     </script>
   </body>
 </html>
+
