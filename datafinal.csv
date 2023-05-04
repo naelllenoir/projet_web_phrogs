@@ -1,0 +1,750 @@
+	annot	category	color	lenOG	phrog	annotation
+0	2-aminooxy adenylosuccinate synthetase	DNA, RNA and nucleotide metabolism	#ffdf59	125	1	  
+1	2OG-Fe(II) oxygenase	moron, auxiliary metabolic gene and host takeover	#ff59f5	2207	2	  
+2	3'-5' exonuclease	DNA, RNA and nucleotide metabolism	#ffdf59	5	2	  
+3	3'-phosphatase, 5'-polynucleotide kinase	other	#838383	17	1	  
+4	5'-3' deoxyribonucleotidase	moron, auxiliary metabolic gene and host takeover	#ff59f5	54	1	  
+5	5-phosphoribosylformylglycinamide amidotransferase	moron, auxiliary metabolic gene and host takeover	#ff59f5	116	1	  
+6	6-phosphofructokinase	other	#838383	85	1	  
+7	6-phosphogluconate dehydrogenase	other	#838383	39	1	  
+8	ABC transporter	moron, auxiliary metabolic gene and host takeover	#ff59f5	510	7	  
+9	ABC transporter ATP-binding subunit	moron, auxiliary metabolic gene and host takeover	#ff59f5	163	1	  
+10	ADP-ribosylglycohydrolase	other	#838383	18	1	  
+11	ADP-ribosyltransferase	moron, auxiliary metabolic gene and host takeover	#ff59f5	7	2	  
+12	ADP-ribosyltransferase exoenzyme toxin	moron, auxiliary metabolic gene and host takeover	#ff59f5	36	1	  
+13	ATP-dependent DNA ligase	DNA, RNA and nucleotide metabolism	#ffdf59	796	2	  
+14	ATP-dependent protease	other	#838383	156	9	  
+15	ATPase	other	#838383	390	25	  
+16	Abi alpha-like abortive infection mechanism	moron, auxiliary metabolic gene and host takeover	#ff59f5	82	1	  
+17	Alt-like RNA polymerase ADP-ribosyltransferase	moron, auxiliary metabolic gene and host takeover	#ff59f5	196	4	  
+18	Alt-like transcription activator	transcription regulation	#a861e3	68	1	  
+19	Arc-like DNA binding domain	transcription regulation	#a861e3	45	1	  
+20	Arc-like repressor	transcription regulation	#a861e3	1398	13	  
+21	Arc-like transcriptional regulator	transcription regulation	#a861e3	17	2	  
+22	Avd protein of DGR	DNA, RNA and nucleotide metabolism	#ffdf59	45	1	  
+23	Bet-like ssDNA annealing protein	DNA, RNA and nucleotide metabolism	#ffdf59	475	1	  
+24	Bor-like outer membrane protein	other	#838383	463	1	  
+25	BstA abortive infection system, replication inhibitor	moron, auxiliary metabolic gene and host takeover	#ff59f5	19	1	  
+26	Bxa ADP-ribosyl transferase	moron, auxiliary metabolic gene and host takeover	#ff59f5	5	1	  
+27	CI-like repressor	transcription regulation	#a861e3	31	3	  
+28	CII-like regulator	transcription regulation	#a861e3	226	3	  
+29	CII-like transcriptional activator	transcription regulation	#a861e3	2125	5	  
+30	CIII anti-termination	transcription regulation	#a861e3	253	3	  
+31	COOH.NH2 ligase	other	#838383	37	1	  
+32	CRISPR/Cas system associated	DNA, RNA and nucleotide metabolism	#ffdf59	89	2	  
+33	CTXphi Zot-like toxin	moron, auxiliary metabolic gene and host takeover	#ff59f5	143	1	  
+34	Cas4-domain exonuclease	DNA, RNA and nucleotide metabolism	#ffdf59	76	1	  
+35	CopG-like transcriptional repressor	transcription regulation	#a861e3	16	1	  
+36	Cor superinfection exclusion protein	moron, auxiliary metabolic gene and host takeover	#ff59f5	134	1	  
+37	Cox-like excisionase and repressor	integration and excision	#fea328	686	2	  
+38	CpeT-like antenna protein	moron, auxiliary metabolic gene and host takeover	#ff59f5	277	1	  
+39	CsrA-like regulator	transcription regulation	#a861e3	24	2	  
+40	DHH phosphoesterase	other	#838383	31	2	  
+41	DNA binding domain	DNA, RNA and nucleotide metabolism	#ffdf59	165	1	  
+42	DNA binding protein	DNA, RNA and nucleotide metabolism	#ffdf59	2880	82	DNA binding protein
+43	DNA circularization	DNA, RNA and nucleotide metabolism	#ffdf59	5	1	  
+44	DNA condensation	DNA, RNA and nucleotide metabolism	#ffdf59	102	2	  
+45	DNA ejection	DNA, RNA and nucleotide metabolism	#ffdf59	235	2	  
+46	DNA ejection protein	DNA, RNA and nucleotide metabolism	#ffdf59	35	2	  
+47	DNA end protector	DNA, RNA and nucleotide metabolism	#ffdf59	300	1	  
+48	DNA endonuclease	DNA, RNA and nucleotide metabolism	#ffdf59	65	1	  
+49	DNA endonuclease V	DNA, RNA and nucleotide metabolism	#ffdf59	448	2	  
+50	DNA helicase	DNA, RNA and nucleotide metabolism	#ffdf59	4435	26	DNA helicase
+51	DNA helicase loader	DNA, RNA and nucleotide metabolism	#ffdf59	448	1	  
+52	DNA invertase	DNA, RNA and nucleotide metabolism	#ffdf59	773	3	  
+53	DNA ligase	DNA, RNA and nucleotide metabolism	#ffdf59	139	12	  
+54	DNA methylase	DNA, RNA and nucleotide metabolism	#ffdf59	20	1	  
+55	DNA methyltransferase	other	#838383	6996	67	DNA methyltransferase
+56	DNA packaging chaperone FI	head and packaging	#3e83f6	959	1	  
+57	DNA polymerase	DNA, RNA and nucleotide metabolism	#ffdf59	3820	56	DNA polymerase
+58	DNA polymerase I	DNA, RNA and nucleotide metabolism	#ffdf59	11	2	  
+59	DNA polymerase III theta subunit	DNA, RNA and nucleotide metabolism	#ffdf59	144	4	  
+60	DNA polymerase exonuclease subunit	DNA, RNA and nucleotide metabolism	#ffdf59	876	3	  
+61	DNA polymerase processivity factor	DNA, RNA and nucleotide metabolism	#ffdf59	661	3	  
+62	DNA polymerase/primase	DNA, RNA and nucleotide metabolism	#ffdf59	514	12	  
+63	DNA primase	DNA, RNA and nucleotide metabolism	#ffdf59	3335	44	DNA primase
+64	DNA primase/helicase	DNA, RNA and nucleotide metabolism	#ffdf59	512	5	  
+65	DNA repair exonuclease	DNA, RNA and nucleotide metabolism	#ffdf59	219	3	  
+66	DNA repair photolyase	DNA, RNA and nucleotide metabolism	#ffdf59	12	1	  
+67	DNA repair protein	DNA, RNA and nucleotide metabolism	#ffdf59	62	6	  
+68	DNA replication initiation	DNA, RNA and nucleotide metabolism	#ffdf59	202	2	  
+69	DNA sliding clamp inhibitor; arrest of S.aureus DNA synthesis	DNA, RNA and nucleotide metabolism	#ffdf59	39	1	  
+70	DNA terminal protein	DNA, RNA and nucleotide metabolism	#ffdf59	19	1	  
+71	DNA topoisomerase	DNA, RNA and nucleotide metabolism	#ffdf59	35	4	  
+72	DNA topoisomerase II	DNA, RNA and nucleotide metabolism	#ffdf59	277	5	  
+73	DNA topoisomerase II large subunit	DNA, RNA and nucleotide metabolism	#ffdf59	253	1	  
+74	DNA transfer protein	other	#838383	272	2	  
+75	DNA transposition protein	integration and excision	#fea328	415	1	  
+76	DarB-like antirestriction	moron, auxiliary metabolic gene and host takeover	#ff59f5	10	1	  
+77	Dda-like helicase	DNA, RNA and nucleotide metabolism	#ffdf59	379	1	  
+78	DdrA-like anti-restriction protein	moron, auxiliary metabolic gene and host takeover	#ff59f5	82	1	  
+79	DenB-like DNA endonuclease IV	DNA, RNA and nucleotide metabolism	#ffdf59	109	1	  
+80	DksA-like zinc-finger protein	other	#838383	1285	1	  
+81	Dmd discriminator of mRNA degradation	DNA, RNA and nucleotide metabolism	#ffdf59	72	1	  
+82	DnaA-like replication initiation protein	DNA, RNA and nucleotide metabolism	#ffdf59	36	3	  
+83	DnaB-like replicative helicase	DNA, RNA and nucleotide metabolism	#ffdf59	2574	4	  
+84	DnaC-like helicase loader	DNA, RNA and nucleotide metabolism	#ffdf59	1350	3	  
+85	DnaD-like helicase loader	DNA, RNA and nucleotide metabolism	#ffdf59	815	11	  
+86	Doc-like toxin	moron, auxiliary metabolic gene and host takeover	#ff59f5	239	1	  
+87	DprA-like DNA recombination-mediator protein	DNA, RNA and nucleotide metabolism	#ffdf59	189	2	  
+88	EPS depolymerase	tail	#07e9a2	32	1	  
+89	ERCC4-type nuclease	DNA, RNA and nucleotide metabolism	#ffdf59	41	1	  
+90	Erf recombination cofactor Arf	DNA, RNA and nucleotide metabolism	#ffdf59	60	1	  
+91	Erf-like ssDNA annealing protein	DNA, RNA and nucleotide metabolism	#ffdf59	854	6	  
+92	FabG-like 3-oxoacyl-(acyl-carrier-protein) reductase	moron, auxiliary metabolic gene and host takeover	#ff59f5	46	1	  
+93	Fe-S oxidoreductase	other	#838383	5	1	  
+94	Fe-S-cluster redox domain-containing	other	#838383	3	1	  
+95	FmdB-like transcriptional regulator	transcription regulation	#a861e3	139	1	  
+96	FtsK/SpoIIIE-like protein	moron, auxiliary metabolic gene and host takeover	#ff59f5	171	6	  
+97	GP16.7-like replication protein	DNA, RNA and nucleotide metabolism	#ffdf59	18	1	  
+98	GTP cyclohydrolase	other	#838383	90	2	  
+99	GTP-binding domain	other	#838383	425	1	  
+100	Galactose-3-O-sulfotransferase	moron, auxiliary metabolic gene and host takeover	#ff59f5	43	1	  
+101	Gp2.5-like ssDNA binding protein and ssDNA annealing protein	DNA, RNA and nucleotide metabolism	#ffdf59	808	2	  
+102	Gp5.5-like host HNS inhibition	moron, auxiliary metabolic gene and host takeover	#ff59f5	103	1	  
+103	Gp5.9-like inihibitor of recBCD nuclease	moron, auxiliary metabolic gene and host takeover	#ff59f5	12	1	  
+104	Gpu-like tail protein	tail	#07e9a2	5	1	  
+105	GtrA-like O-antigen conversion	moron, auxiliary metabolic gene and host takeover	#ff59f5	68	1	  
+106	GtrB glycosyltransferase for O-antigen conversion	moron, auxiliary metabolic gene and host takeover	#ff59f5	2	1	  
+107	GtrB-like O-antigen conversion	moron, auxiliary metabolic gene and host takeover	#ff59f5	175	2	  
+108	GtrC-like O-antigen conversion translocase	moron, auxiliary metabolic gene and host takeover	#ff59f5	40	3	  
+109	HAD-superfamily hydrolase	other	#838383	13	1	  
+110	HNH endonuclease	DNA, RNA and nucleotide metabolism	#ffdf59	9830	125	HNH endonuclease
+111	HTH DNA binding domain protein	DNA, RNA and nucleotide metabolism	#ffdf59	29	1	  
+112	HTH DNA binding protein	DNA, RNA and nucleotide metabolism	#ffdf59	1919	56	HTH DNA binding protein
+113	Hdf-like antirestriction	moron, auxiliary metabolic gene and host takeover	#ff59f5	92	1	  
+114	HicB-like antitoxin	moron, auxiliary metabolic gene and host takeover	#ff59f5	26	2	  
+115	Hoc-like head decoration	head and packaging	#3e83f6	278	8	  
+116	Holliday junction branch migration helicase	DNA, RNA and nucleotide metabolism	#ffdf59	17	1	  
+117	Holliday junction resolvase	DNA, RNA and nucleotide metabolism	#ffdf59	1135	13	  
+118	Hsp20 heat shock protein	other	#838383	299	1	  
+119	Hsp70 heat shock protein	other	#838383	6	1	  
+120	Ig domain containing protein	other	#838383	247	5	  
+121	Kil protein for bacterial septation inhibition	other	#838383	775	9	  
+122	Ku-like DNA end binding	DNA, RNA and nucleotide metabolism	#ffdf59	27	1	  
+123	L-alanyl-D-glutamate peptidase	other	#838383	65	1	  
+124	L-glutamine-D-fructose-6-phosphate aminotransferase	other	#838383	38	2	  
+125	L-shaped tail fiber protein assembly	tail	#07e9a2	49	2	  
+126	Lar-like restriction alleviation protein	moron, auxiliary metabolic gene and host takeover	#ff59f5	332	6	  
+127	Lom outer membrane protein	other	#838383	847	1	  
+128	Lpa-like transcriptional activator	transcription regulation	#a861e3	88	1	  
+129	Lsr2-like DNA bridging protein	DNA, RNA and nucleotide metabolism	#ffdf59	48	3	  
+130	MIT family metal ion transporter	moron, auxiliary metabolic gene and host takeover	#ff59f5	20	1	  
+131	MarR family transcrition regulator	transcription regulation	#a861e3	89	1	  
+132	MazF-like growth inhibitor	moron, auxiliary metabolic gene and host takeover	#ff59f5	99	4	  
+133	MazG-like pyrophosphatase	other	#838383	983	11	  
+134	MerR-like transcriptional regulator	transcription regulation	#a861e3	60	1	  
+135	MokW-like host killing	moron, auxiliary metabolic gene and host takeover	#ff59f5	476	1	  
+136	Mom-like DNA modification protein	other	#838383	107	1	  
+137	MotA-like activator of middle period transcription	transcription regulation	#a861e3	111	1	  
+138	MotB-like transcriptional regulator	transcription regulation	#a861e3	107	2	  
+139	MoxR-like ATPase	other	#838383	1	1	  
+140	Mrh transcription modulator under heat shock	transcription regulation	#a861e3	122	1	  
+141	Mu Gam-like end protection	DNA, RNA and nucleotide metabolism	#ffdf59	842	5	  
+142	MutT/NUDIX hydrolase	other	#838383	126	1	  
+143	N4-like RNA polymerase	DNA, RNA and nucleotide metabolism	#ffdf59	70	1	  
+144	NAD synthetase	other	#838383	304	3	  
+145	NAD-dependent DNA ligase	DNA, RNA and nucleotide metabolism	#ffdf59	121	3	  
+146	NAD-independent protein deacetylase	other	#838383	1	1	  
+147	Na/K ATPase	other	#838383	198	1	  
+148	Ndd-like nucleoid disruption protein	DNA, RNA and nucleotide metabolism	#ffdf59	136	1	  
+149	NifU-like Fe-S cluster assembly protein	moron, auxiliary metabolic gene and host takeover	#ff59f5	13	1	  
+150	NinB/ Orf homologous recombination mediator	DNA, RNA and nucleotide metabolism	#ffdf59	1505	3	  
+151	NinG/ Rap DNA junction specific endonuclease	DNA, RNA and nucleotide metabolism	#ffdf59	621	2	  
+152	NinI-like serine-threonine phosphatase	other	#838383	479	1	  
+153	Nol-like carbamoyltransferase	moron, auxiliary metabolic gene and host takeover	#ff59f5	97	2	  
+154	NrdA-like aerobic NDP reductase large subunit	moron, auxiliary metabolic gene and host takeover	#ff59f5	37	1	  
+155	NrdC-like thioredoxin	moron, auxiliary metabolic gene and host takeover	#ff59f5	11	1	  
+156	NrdD-like anaerobic ribonucleotide reductase large subunit	moron, auxiliary metabolic gene and host takeover	#ff59f5	277	1	  
+157	Nun-like transcription termination factor	transcription regulation	#a861e3	23	1	  
+158	O-acetyltransferase	other	#838383	43	1	  
+159	O-antigen acetylase	moron, auxiliary metabolic gene and host takeover	#ff59f5	18	1	  
+160	P-like helicase loader	DNA, RNA and nucleotide metabolism	#ffdf59	843	1	  
+161	PAAR motif of membran proteins	moron, auxiliary metabolic gene and host takeover	#ff59f5	441	1	  
+162	PAGK virulence factor	moron, auxiliary metabolic gene and host takeover	#ff59f5	34	1	  
+163	Panton-Valentine leukocicin	DNA, RNA and nucleotide metabolism	#ffdf59	683	2	  
+164	ParA-like partition protein	DNA, RNA and nucleotide metabolism	#ffdf59	603	1	  
+165	ParB C-terminal domain	DNA, RNA and nucleotide metabolism	#ffdf59	56	1	  
+166	ParB-like partition nuclease	DNA, RNA and nucleotide metabolism	#ffdf59	30	7	  
+167	ParB-like partition protein	DNA, RNA and nucleotide metabolism	#ffdf59	1071	17	  
+168	PblB-type receptor binding	other	#838383	125	1	  
+169	PetE plastocyanine	other	#838383	264	1	  
+170	Phd-like antitoxin	moron, auxiliary metabolic gene and host takeover	#ff59f5	334	1	  
+171	PhoH-like phosphate starvation-inducible	other	#838383	648	3	  
+172	PmgB-like head morphogenesis	head and packaging	#3e83f6	82	1	  
+173	PmgC-like head morphogenesis	head and packaging	#3e83f6	82	1	  
+174	PmgG-like head morphogenesis	head and packaging	#3e83f6	134	1	  
+175	PmgS-like head morphogenesis	head and packaging	#3e83f6	90	1	  
+176	PnuC-like nicotinamide mononucleotide transport	moron, auxiliary metabolic gene and host takeover	#ff59f5	80	1	  
+177	PufA cytochrome subunit	moron, auxiliary metabolic gene and host takeover	#ff59f5	12	1	  
+178	PufB cytochrome subunit	moron, auxiliary metabolic gene and host takeover	#ff59f5	12	1	  
+179	PufC cytochrome	moron, auxiliary metabolic gene and host takeover	#ff59f5	13	1	  
+180	QueC-like queuosine biosynthesis	moron, auxiliary metabolic gene and host takeover	#ff59f5	182	2	  
+181	QueD-like  6-pyruvoyl-tetrahydropterin synthase	moron, auxiliary metabolic gene and host takeover	#ff59f5	62	1	  
+182	QueE-like  radical SAM domain	moron, auxiliary metabolic gene and host takeover	#ff59f5	73	1	  
+183	RF-1 domain peptide chain release factor	other	#838383	50	2	  
+184	RHH domain	other	#838383	1	1	  
+185	RIIA lysis inhibitor	lysis	#f35f49	322	6	  
+186	RIIB lysis inhibitor	lysis	#f35f49	327	5	  
+187	RNA 2'-phosphotransferase	DNA, RNA and nucleotide metabolism	#ffdf59	24	1	  
+188	RNA ligase	DNA, RNA and nucleotide metabolism	#ffdf59	693	12	  
+189	RNA ligase and tail fiber protein attachment catalyst	tail	#07e9a2	246	1	  
+190	RNA polymerase	DNA, RNA and nucleotide metabolism	#ffdf59	431	11	  
+191	RNA polymerase ADP-ribosylase	DNA, RNA and nucleotide metabolism	#ffdf59	174	1	  
+192	RNA polymerase beta subunit	DNA, RNA and nucleotide metabolism	#ffdf59	527	12	  
+193	RNA polymerase binding	DNA, RNA and nucleotide metabolism	#ffdf59	116	1	  
+194	RNA polymerase inhibitor	DNA, RNA and nucleotide metabolism	#ffdf59	114	1	  
+195	RNA polymerase sigma factor	transcription regulation	#a861e3	746	13	  
+196	RNA replicase beta subunit	DNA, RNA and nucleotide metabolism	#ffdf59	32	1	  
+197	RNA-binding protein	DNA, RNA and nucleotide metabolism	#ffdf59	324	3	  
+198	RNA-dependent RNA polymerase	DNA, RNA and nucleotide metabolism	#ffdf59	32	1	  
+199	RNAse	DNA, RNA and nucleotide metabolism	#ffdf59	1	1	  
+200	RecA filament binding protein DinI	DNA, RNA and nucleotide metabolism	#ffdf59	564	1	  
+201	RecA or Sak4, length ?	other	#838383	14	1	  
+202	RecE-like recombination exonuclease	DNA, RNA and nucleotide metabolism	#ffdf59	314	2	  
+203	RecJ-like ssDNA exonuclease	DNA, RNA and nucleotide metabolism	#ffdf59	59	1	  
+204	RecT-like ssDNA annealing protein	DNA, RNA and nucleotide metabolism	#ffdf59	1111	8	  
+205	RecX-like filament modulator	DNA, RNA and nucleotide metabolism	#ffdf59	11	1	  
+206	Ref-like RecA filament endonuclease	DNA, RNA and nucleotide metabolism	#ffdf59	65	1	  
+207	RelE-like toxin	moron, auxiliary metabolic gene and host takeover	#ff59f5	140	2	  
+208	Ren-like exclusion protein	moron, auxiliary metabolic gene and host takeover	#ff59f5	682	2	  
+209	Reverse transcriptase	DNA, RNA and nucleotide metabolism	#ffdf59	104	1	  
+210	RexA-like exclusion protein	moron, auxiliary metabolic gene and host takeover	#ff59f5	8	1	  
+211	RexB-like exclusion protein	moron, auxiliary metabolic gene and host takeover	#ff59f5	6	1	  
+212	Rha-like transcriptional regulator	transcription regulation	#a861e3	262	1	  
+213	RinB-like transcriptional activator	transcription regulation	#a861e3	638	2	  
+214	Rnase E	DNA, RNA and nucleotide metabolism	#ffdf59	217	1	  
+215	Rnase H	DNA, RNA and nucleotide metabolism	#ffdf59	340	6	  
+216	RpbA RNA polymerase binding protein	DNA, RNA and nucleotide metabolism	#ffdf59	16	1	  
+217	RstB sensor of two protein system	moron, auxiliary metabolic gene and host takeover	#ff59f5	158	1	  
+218	RusA-like Holliday junction resolvase	DNA, RNA and nucleotide metabolism	#ffdf59	3017	14	RusA-like Holliday junction resolvase
+219	RuvC-like Holliday junction resolvase	DNA, RNA and nucleotide metabolism	#ffdf59	653	2	  
+220	Rz-like spanin	lysis	#f35f49	6543	56	Rz-like spanin
+221	S-adenosylmethionine decarboxylase	other	#838383	52	3	  
+222	SAM-dependent methyltransferase	other	#838383	120	4	  
+223	Sak-like ssDNA annealing protein	DNA, RNA and nucleotide metabolism	#ffdf59	227	2	  
+224	Sak4-like ssDNA annealing protein	DNA, RNA and nucleotide metabolism	#ffdf59	795	2	  
+225	SbcC-like subunit of palindrome specific endonuclease	DNA, RNA and nucleotide metabolism	#ffdf59	1071	1	  
+226	SbcD-like subunit of palindrome specific endonuclease	DNA, RNA and nucleotide metabolism	#ffdf59	893	1	  
+227	Shiga toxin subunit A	moron, auxiliary metabolic gene and host takeover	#ff59f5	169	2	  
+228	Shiga toxin subunit B	moron, auxiliary metabolic gene and host takeover	#ff59f5	170	1	  
+229	SieB superinfection exclusion	moron, auxiliary metabolic gene and host takeover	#ff59f5	21	2	  
+230	Sir2 (NAD-dependent deacetylase)	DNA, RNA and nucleotide metabolism	#ffdf59	75	2	  
+231	Srd anti-sigma factor	moron, auxiliary metabolic gene and host takeover	#ff59f5	106	1	  
+232	T3SS effector protein EspN	moron, auxiliary metabolic gene and host takeover	#ff59f5	18	1	  
+233	T3SS secreted effector Ibe	moron, auxiliary metabolic gene and host takeover	#ff59f5	18	1	  
+234	Tail assembly chaperone	tail	#07e9a2	390	1	  
+235	TciB-like inhibition of cell division or resistance to colicin	moron, auxiliary metabolic gene and host takeover	#ff59f5	102	1	  
+236	TreN-like membrane protein	other	#838383	43	1	  
+237	UDP-glucose dehydrogenase	other	#838383	12	1	  
+238	Ulx-like anti-restriction	moron, auxiliary metabolic gene and host takeover	#ff59f5	92	1	  
+239	UmuD-like protein	DNA, RNA and nucleotide metabolism	#ffdf59	229	3	  
+240	UvsX-like recombinase	other	#838383	931	1	  
+241	UvsY-like recombination mediator	DNA, RNA and nucleotide metabolism	#ffdf59	493	1	  
+242	WhiB transcriptional factor	transcription regulation	#a861e3	284	1	  
+243	Zot-like toxin	moron, auxiliary metabolic gene and host takeover	#ff59f5	537	1	  
+244	abc2 anti-RecBCD	moron, auxiliary metabolic gene and host takeover	#ff59f5	215	1	  
+245	abortive infection resistance protein	moron, auxiliary metabolic gene and host takeover	#ff59f5	70	1	  
+246	acetyl-CoA acetyltransferase	other	#838383	52	1	  
+247	acetyltransferase	other	#838383	521	15	  
+248	activator of host PrrC lysyl-tRNA endonuclease	moron, auxiliary metabolic gene and host takeover	#ff59f5	17	1	  
+249	acyl carrier protein	moron, auxiliary metabolic gene and host takeover	#ff59f5	54	2	  
+250	acyl-CoA N-acyltransferase	moron, auxiliary metabolic gene and host takeover	#ff59f5	31	1	  
+251	adaptor Ad4	connector	#35d7ff	45	1	  
+252	adhesin	tail	#07e9a2	5	1	  
+253	aerobic NDP reductase small subunit	DNA, RNA and nucleotide metabolism	#ffdf59	13	1	  
+254	aerobic cobaltochelatase CobT subunit	moron, auxiliary metabolic gene and host takeover	#ff59f5	5	1	  
+255	alkylated DNA repair	DNA, RNA and nucleotide metabolism	#ffdf59	4	1	  
+256	alpha-2;3-sialyltransferase	other	#838383	29	1	  
+257	alpha-glucosyltransferase	other	#838383	50	1	  
+258	amidase	lysis	#f35f49	455	10	  
+259	amidoligase enzyme	other	#838383	91	3	  
+260	aminoacid permease	other	#838383	14	1	  
+261	aminotransferase	other	#838383	103	3	  
+262	anaerobic ribonucleoside reductase large subunit	DNA, RNA and nucleotide metabolism	#ffdf59	41	4	  
+263	anaerobic ribonucleoside reductase small subunit	DNA, RNA and nucleotide metabolism	#ffdf59	4	1	  
+264	anaerobic ribonucleotide reductase small subunit	DNA, RNA and nucleotide metabolism	#ffdf59	224	1	  
+265	anti-repressor	transcription regulation	#a861e3	1276	28	  
+266	anti-repressor Ant	transcription regulation	#a861e3	3307	11	anti-repressor Ant
+267	anti-restriction nuclease	DNA, RNA and nucleotide metabolism	#ffdf59	31	1	  
+268	anti-restriction protein	moron, auxiliary metabolic gene and host takeover	#ff59f5	115	6	  
+269	anti-sigma factor	moron, auxiliary metabolic gene and host takeover	#ff59f5	268	2	  
+270	anti-termination protein N-like	transcription regulation	#a861e3	446	1	  
+271	anti-termination protein Q-like	transcription regulation	#a861e3	2564	8	  
+272	antimicrobial peptide resistance and lipid A acylation protein PagP	moron, auxiliary metabolic gene and host takeover	#ff59f5	40	1	  
+273	antitoxin from a toxin-antitoxin system	moron, auxiliary metabolic gene and host takeover	#ff59f5	190	7	  
+274	antitoxin mazE-like	moron, auxiliary metabolic gene and host takeover	#ff59f5	105	1	  
+275	antitoxin with HTH domain	moron, auxiliary metabolic gene and host takeover	#ff59f5	2	1	  
+276	appendage	connector	#35d7ff	2	1	  
+277	arabinose 5-phosphate isomerase	moron, auxiliary metabolic gene and host takeover	#ff59f5	23	1	  
+278	assembly (protein IV of M13)	head and packaging	#3e83f6	147	1	  
+279	attachment protein	head and packaging	#3e83f6	13	1	  
+280	base plate tail tube protein	tail	#07e9a2	36	1	  
+281	baseplate assembly protein	tail	#07e9a2	75	3	  
+282	baseplate hub	tail	#07e9a2	4030	12	baseplate hub
+283	baseplate hub and tail lysozyme	tail	#07e9a2	236	3	  
+284	baseplate hub assembly catalyst	tail	#07e9a2	224	2	  
+285	baseplate hub distal subunit	tail	#07e9a2	131	1	  
+286	baseplate hub subunit and tail length	tail	#07e9a2	116	1	  
+287	baseplate hub subunit and tail lysozyme	tail	#07e9a2	511	6	  
+288	baseplate protein	tail	#07e9a2	907	30	  
+289	baseplate spike	tail	#07e9a2	2533	1	  
+290	baseplate tail tube cap	tail	#07e9a2	496	1	  
+291	baseplate wedge initiator	tail	#07e9a2	14	1	  
+292	baseplate wedge subunit	tail	#07e9a2	9696	32	baseplate wedge subunit
+293	baseplate wedge tail fiber protein connector	tail	#07e9a2	360	2	  
+294	beta-1,4-glycosyltransferase	moron, auxiliary metabolic gene and host takeover	#ff59f5	8	1	  
+295	beta-glucosyl-HMC-alpha-glucosyltransferase	other	#838383	171	1	  
+296	beta-glucosyltransferase	moron, auxiliary metabolic gene and host takeover	#ff59f5	14	1	  
+297	beta-lactamase-inhibitor protein BLIP	moron, auxiliary metabolic gene and host takeover	#ff59f5	20	1	  
+298	beta-propeller repeat protein	other	#838383	13	1	  
+299	bifunctional heptose 7-phosphate kinase/heptose 1-phosphate adenyltransferase	other	#838383	15	1	  
+300	cAMP phosphodiesterase	other	#838383	187	2	  
+301	cAMP-dependent Kef-type K+ transporter	other	#838383	12	2	  
+302	capsid assembly protein	tail	#07e9a2	12	1	  
+303	carboxypeptidase	other	#838383	61	2	  
+304	cation efflux protein	moron, auxiliary metabolic gene and host takeover	#ff59f5	16	1	  
+305	cef modifier of supressor tRNAs	moron, auxiliary metabolic gene and host takeover	#ff59f5	110	1	  
+306	cell division inhibitor	moron, auxiliary metabolic gene and host takeover	#ff59f5	178	2	  
+307	central tail fiber J	tail	#07e9a2	1620	1	  
+308	chaperonin groEL	other	#838383	22	1	  
+309	chemotaxis inhibition protein	moron, auxiliary metabolic gene and host takeover	#ff59f5	17	1	  
+310	chitinase	moron, auxiliary metabolic gene and host takeover	#ff59f5	6	1	  
+311	clamp loader of DNA polymerase	DNA, RNA and nucleotide metabolism	#ffdf59	1139	8	  
+312	co-chaperonin GroES	other	#838383	52	2	  
+313	coat protein	head and packaging	#3e83f6	3	3	  
+314	cobalamin biosynthesis protein	moron, auxiliary metabolic gene and host takeover	#ff59f5	24	1	  
+315	colanic acid degradation	moron, auxiliary metabolic gene and host takeover	#ff59f5	20	1	  
+316	cold shock protein	other	#838383	195	1	  
+317	collagen like minor tail	tail	#07e9a2	86	2	  
+318	collar tail protein for L-shaped tail fibre attachment	tail	#07e9a2	2	1	  
+319	complement inhibitor	other	#838383	27	1	  
+320	core encoded pilin	moron, auxiliary metabolic gene and host takeover	#ff59f5	134	1	  
+321	cro-like repressor	transcription regulation	#a861e3	8	2	  
+322	cyanobacterial phosphoribosylglycinamide formyltransferase	moron, auxiliary metabolic gene and host takeover	#ff59f5	12	1	  
+323	cysteine dioxygenase	other	#838383	43	2	  
+324	cysteine hydrolase	other	#838383	1	1	  
+325	cysteine protease	lysis	#f35f49	13	1	  
+326	cytidyltransferase	other	#838383	563	4	  
+327	cytolethal distending toxin A subunit	moron, auxiliary metabolic gene and host takeover	#ff59f5	12	1	  
+328	cytolethal distending toxin B subunit	moron, auxiliary metabolic gene and host takeover	#ff59f5	21	1	  
+329	cytolethal distending toxin C subunit	moron, auxiliary metabolic gene and host takeover	#ff59f5	18	1	  
+330	dATP / dGTP pyrophosphohydrolase	DNA, RNA and nucleotide metabolism	#ffdf59	180	1	  
+331	dATP triphosphohydrolase	DNA, RNA and nucleotide metabolism	#ffdf59	17	1	  
+332	dCMP deaminase	DNA, RNA and nucleotide metabolism	#ffdf59	657	3	  
+333	dCMP hydroxymethylase	DNA, RNA and nucleotide metabolism	#ffdf59	50	1	  
+334	dCTP deaminase	DNA, RNA and nucleotide metabolism	#ffdf59	90	1	  
+335	dGTPase inhibitor	other	#838383	18	1	  
+336	dGTPase inhibitor; target for F exclusion	other	#838383	49	1	  
+337	dTDP-4-dehydrorhamnose 3,5-epimerase	moron, auxiliary metabolic gene and host takeover	#ff59f5	13	1	  
+338	dUTPase	DNA, RNA and nucleotide metabolism	#ffdf59	705	3	  
+339	decoy of host sigma32	moron, auxiliary metabolic gene and host takeover	#ff59f5	60	1	  
+340	decoy of host sigma70	moron, auxiliary metabolic gene and host takeover	#ff59f5	29	1	  
+341	dehydrogenase	other	#838383	167	7	  
+342	deoxycytidinylate deaminase	DNA, RNA and nucleotide metabolism	#ffdf59	9	2	  
+343	deoxynucleoside monophosphate kinase	other	#838383	690	2	  
+344	deoxyribonucleoside 5' monophosphate phosphatase	other	#838383	419	3	  
+345	dihydrofolate reductase	DNA, RNA and nucleotide metabolism	#ffdf59	404	3	  
+346	dimethyl sulfoxide reductase DmsA	moron, auxiliary metabolic gene and host takeover	#ff59f5	15	1	  
+347	distal tail protein	tail	#07e9a2	114	1	  
+348	distal tail protein Dit	tail	#07e9a2	2123	2	  
+349	dsDNA binding protein	DNA, RNA and nucleotide metabolism	#ffdf59	19	1	  
+350	dual specificity phosphatase	other	#838383	12	2	  
+351	end-filament protein	other	#838383	17	1	  
+352	endolysin	head and packaging	#3e83f6	338	3	  
+353	endolysin	lysis	#f35f49	12809	116	endolysin
+354	endolysin; inhibits RNA polymerase	lysis	#f35f49	97	3	  
+355	endolysin; lysM motif	lysis	#f35f49	80	1	  
+356	endonuclease	DNA, RNA and nucleotide metabolism	#ffdf59	2285	47	  
+357	endonuclease V N-glycosylase UV repair enzyme	DNA, RNA and nucleotide metabolism	#ffdf59	128	1	  
+358	endonuclease VII	DNA, RNA and nucleotide metabolism	#ffdf59	1036	11	  
+359	endonuclease nicking abasic sites generated by host uracil glycosylase Ung	moron, auxiliary metabolic gene and host takeover	#ff59f5	33	1	  
+360	endoribonuclease	DNA, RNA and nucleotide metabolism	#ffdf59	113	1	  
+361	enoyl-CoA hydratase/carnithine racemase-like	moron, auxiliary metabolic gene and host takeover	#ff59f5	133	1	  
+362	enterotoxin CtxA	moron, auxiliary metabolic gene and host takeover	#ff59f5	81	1	  
+363	enterotoxin CtxB	moron, auxiliary metabolic gene and host takeover	#ff59f5	74	1	  
+364	enterotoxin type A / speL	moron, auxiliary metabolic gene and host takeover	#ff59f5	86	1	  
+365	esterase	other	#838383	50	2	  
+366	esterase/lipase	other	#838383	208	8	  
+367	excisionase	integration and excision	#fea328	1675	28	  
+368	excisionase and transcriptional regulator	integration and excision	#fea328	1257	6	  
+369	exonuclease	DNA, RNA and nucleotide metabolism	#ffdf59	5063	37	exonuclease
+370	exonuclease V	DNA, RNA and nucleotide metabolism	#ffdf59	31	1	  
+371	exonuclease VII	DNA, RNA and nucleotide metabolism	#ffdf59	229	1	  
+372	exonuclease VIII	DNA, RNA and nucleotide metabolism	#ffdf59	312	1	  
+373	exonuclease recombination-associated	DNA, RNA and nucleotide metabolism	#ffdf59	197	1	  
+374	exopolyphosphatase	other	#838383	82	1	  
+375	ferredoxin	moron, auxiliary metabolic gene and host takeover	#ff59f5	250	5	  
+376	ferredoxin oxidoreductase	moron, auxiliary metabolic gene and host takeover	#ff59f5	16	1	  
+377	ferrochelatase	moron, auxiliary metabolic gene and host takeover	#ff59f5	89	2	  
+378	fibritin neck whisker	tail	#07e9a2	152	2	  
+379	flagellar protein	moron, auxiliary metabolic gene and host takeover	#ff59f5	13	1	  
+380	flavodoxin	moron, auxiliary metabolic gene and host takeover	#ff59f5	163	1	  
+381	galactosyl transferase	moron, auxiliary metabolic gene and host takeover	#ff59f5	136	3	  
+382	gam-like host nuclease inhibitor	moron, auxiliary metabolic gene and host takeover	#ff59f5	607	2	  
+383	gamma-glutamyl cyclotransferase	moron, auxiliary metabolic gene and host takeover	#ff59f5	58	1	  
+384	genome terminal protein	DNA, RNA and nucleotide metabolism	#ffdf59	13	1	  
+385	glucosyltransferase	moron, auxiliary metabolic gene and host takeover	#ff59f5	224	3	  
+386	glutamine amidotransferase	moron, auxiliary metabolic gene and host takeover	#ff59f5	23	2	  
+387	glutathionylspermidine synthase	moron, auxiliary metabolic gene and host takeover	#ff59f5	20	1	  
+388	glycerophosphoryl diester phosphodiesterase	other	#838383	115	5	  
+389	glycoside hydrolase	other	#838383	50	2	  
+390	glycosyltransferase	moron, auxiliary metabolic gene and host takeover	#ff59f5	715	34	  
+391	goF mRNA metabolism modulator	DNA, RNA and nucleotide metabolism	#ffdf59	69	4	  
+392	gpCom control of modification	DNA, RNA and nucleotide metabolism	#ffdf59	7	1	  
+393	guanylate kinase	other	#838383	114	2	  
+394	haemolysin-type calcium binding	other	#838383	2	1	  
+395	head assembly	head and packaging	#3e83f6	142	2	  
+396	head closure	connector	#35d7ff	1904	6	  
+397	head closure Hc1	connector	#35d7ff	4196	14	head closure Hc1
+398	head closure Hc1	head and packaging	#3e83f6	24	1	  
+399	head closure Hc2	connector	#35d7ff	540	4	  
+400	head closure Hc3	connector	#35d7ff	253	2	  
+401	head decoration	head and packaging	#3e83f6	2477	12	  
+402	head decoration protein	head and packaging	#3e83f6	47	1	  
+403	head fiber protein	head and packaging	#3e83f6	80	5	  
+404	head maturation protease	head and packaging	#3e83f6	7129	54	head maturation protease
+405	head morphogenesis	head and packaging	#3e83f6	1924	22	  
+406	head protein	head and packaging	#3e83f6	2039	43	  
+407	head scaffolding protein	head and packaging	#3e83f6	5122	42	head scaffolding protein
+408	head vertex assembly chaperone	head and packaging	#3e83f6	149	2	  
+409	head-tail adaptor	connector	#35d7ff	5403	25	head-tail adaptor
+410	head-tail adaptor Ad1	connector	#35d7ff	5107	10	head-tail adaptor Ad1
+411	head-tail adaptor Ad2	connector	#35d7ff	512	1	  
+412	head-tail adaptor Ad3	connector	#35d7ff	221	1	  
+413	head-tail connector protein	connector	#35d7ff	1029	31	  
+414	head-tail joining	connector	#35d7ff	22	1	  
+415	helicase	DNA, RNA and nucleotide metabolism	#ffdf59	112	12	  
+416	helicase loader	DNA, RNA and nucleotide metabolism	#ffdf59	93	2	  
+417	helicase subunit of the DNA excision repair complex	DNA, RNA and nucleotide metabolism	#ffdf59	14	1	  
+418	hemagglutinin	other	#838383	12	1	  
+419	hemolysin	other	#838383	284	3	  
+420	high light inducible protein	other	#838383	588	3	  
+421	hinge connector of long tail fiber protein distal connector	tail	#07e9a2	110	2	  
+422	histidyl tRNA synthetase	DNA, RNA and nucleotide metabolism	#ffdf59	28	1	  
+423	histone family DNA-binding	DNA, RNA and nucleotide metabolism	#ffdf59	34	2	  
+424	hol-like chemotaxis	other	#838383	75	4	  
+425	holin	lysis	#f35f49	9018	101	holin
+426	holin/anti-holin	lysis	#f35f49	781	5	  
+427	homing endonuclease	DNA, RNA and nucleotide metabolism	#ffdf59	741	13	  
+428	homing endonuclease with GIY-YIG motif	DNA, RNA and nucleotide metabolism	#ffdf59	27	2	  
+429	homing endonuclease with LAGLIDADG motif	DNA, RNA and nucleotide metabolism	#ffdf59	9	1	  
+430	host RecBCD nuclease inhibitor	moron, auxiliary metabolic gene and host takeover	#ff59f5	47	2	  
+431	host nuclease inhibitor	moron, auxiliary metabolic gene and host takeover	#ff59f5	283	3	  
+432	host range and adsorption protein	moron, auxiliary metabolic gene and host takeover	#ff59f5	212	7	  
+433	hyaluronidase	other	#838383	70	3	  
+434	hydrolase	other	#838383	163	18	  
+435	i-spanin	lysis	#f35f49	15	1	  
+436	immunity protein	other	#838383	40	1	  
+437	immunity to superinfection	moron, auxiliary metabolic gene and host takeover	#ff59f5	143	1	  
+438	inhibitor of MrcBC restriction	moron, auxiliary metabolic gene and host takeover	#ff59f5	46	1	  
+439	inhibitor of host Lon protease	other	#838383	82	2	  
+440	inhibitor of host transcription	transcription regulation	#a861e3	126	3	  
+441	inhibitor of transcription initiation and antiterminator	transcription regulation	#a861e3	3	1	  
+442	integrase	integration and excision	#fea328	7482	21	integrase
+443	internal head protein	head and packaging	#3e83f6	228	8	  
+444	internal virion lysozyme motif	head and packaging	#3e83f6	72	1	  
+445	internal virion protein	head and packaging	#3e83f6	1553	21	  
+446	internal virion protein with endolysin domain	head and packaging	#3e83f6	360	1	  
+447	intron encoded nuclease	DNA, RNA and nucleotide metabolism	#ffdf59	16	1	  
+448	intron-like DNA endonuclease	DNA, RNA and nucleotide metabolism	#ffdf59	8	1	  
+449	involved in bacteriocin production or immunity	moron, auxiliary metabolic gene and host takeover	#ff59f5	153	2	  
+450	kinase	other	#838383	212	14	  
+451	late promoter transcriptional regulator	transcription regulation	#a861e3	476	3	  
+452	late sigma transcription factor	transcription regulation	#a861e3	489	1	  
+453	late transcriptional activator	transcription regulation	#a861e3	440	3	  
+454	lectin	other	#838383	80	1	  
+455	levanase	moron, auxiliary metabolic gene and host takeover	#ff59f5	4	1	  
+456	lipase	moron, auxiliary metabolic gene and host takeover	#ff59f5	20	1	  
+457	lipoprotein	other	#838383	1165	19	  
+458	lipoprotein precursor	other	#838383	14	1	  
+459	long tail fiber protein distal subunit	tail	#07e9a2	132	7	  
+460	long tail fiber protein proximal connector	tail	#07e9a2	143	3	  
+461	lower collar	tail	#07e9a2	27	2	  
+462	lysM motif protein	lysis	#f35f49	120	2	  
+463	lysis determining protein	lysis	#f35f49	80	1	  
+464	lysis inhibition	lysis	#f35f49	131	2	  
+465	lysis inhibition; accessory protein	lysis	#f35f49	104	2	  
+466	lysophospholipase L1-like esterase	other	#838383	13	1	  
+467	lysozyme domain-containing protein	lysis	#f35f49	32	1	  
+468	lytic tail fiber protein	tail	#07e9a2	13	3	  
+469	lytic tail protein	tail	#07e9a2	75	1	  
+470	major capsid protein	head and packaging	#3e83f6	43	1	  
+471	major coat protein	head and packaging	#3e83f6	109	2	  
+472	major head and protease protein	head and packaging	#3e83f6	31	2	  
+473	major head protein	head and packaging	#3e83f6	12783	65	major head protein
+474	major spike protein	head and packaging	#3e83f6	108	2	  
+475	major tail protein	tail	#07e9a2	6690	36	major tail protein
+476	major tail protein with Ig-like domain	tail	#07e9a2	179	1	  
+477	mazG nucleotide pyrophosphohydrolase	other	#838383	15	1	  
+478	membrane DNA delivery	moron, auxiliary metabolic gene and host takeover	#ff59f5	14	1	  
+479	membrane associated protein	moron, auxiliary metabolic gene and host takeover	#ff59f5	334	7	  
+480	membrane protein	moron, auxiliary metabolic gene and host takeover	#ff59f5	2287	166	membrane protein
+481	membrane-flanked domain	moron, auxiliary metabolic gene and host takeover	#ff59f5	39	1	  
+482	metal-dependent hydrolase	other	#838383	321	1	  
+483	metal-dependent phosphohydrolase	other	#838383	154	3	  
+484	metallo-endopeptidase	other	#838383	21	4	  
+485	metallo-phosphoesterase	other	#838383	601	4	  
+486	metallo-protease	other	#838383	993	1	  
+487	methylamine utilization	other	#838383	285	1	  
+488	methyltransferase	other	#838383	249	27	  
+489	minor coat protein	head and packaging	#3e83f6	116	3	  
+490	minor head protein	head and packaging	#3e83f6	3288	50	minor head protein
+491	minor head protein Ace-like	head and packaging	#3e83f6	397	1	  
+492	minor head protein and DNA pilot	head and packaging	#3e83f6	546	3	  
+493	minor head protein inhibitor of protease	head and packaging	#3e83f6	142	1	  
+494	minor head protein; receptor binding	head and packaging	#3e83f6	88	1	  
+495	minor tail protein	tail	#07e9a2	18431	145	minor tail protein
+496	minor tail protein with lysin activity	tail	#07e9a2	326	1	  
+497	mobile element MPME	moron, auxiliary metabolic gene and host takeover	#ff59f5	80	1	  
+498	morphogenesis (protein I of M13)	head and packaging	#3e83f6	90	1	  
+499	neck passage structure	connector	#35d7ff	63	1	  
+500	neck passage structure protein	connector	#35d7ff	14	1	  
+501	neck protein	connector	#35d7ff	446	9	  
+502	neck protein Ne1	connector	#35d7ff	1	1	  
+503	nicking at origin of replication	DNA, RNA and nucleotide metabolism	#ffdf59	969	1	  
+504	nicotinamide phosphoribosyl transferase	other	#838383	312	4	  
+505	nicotinamide-nucleotide adenylyltransferase	moron, auxiliary metabolic gene and host takeover	#ff59f5	41	1	  
+506	nitroreductase	other	#838383	4	1	  
+507	nuclear shell protein	DNA, RNA and nucleotide metabolism	#ffdf59	28	1	  
+508	nuclease	DNA, RNA and nucleotide metabolism	#ffdf59	199	10	  
+509	nucleoid associated protein	DNA, RNA and nucleotide metabolism	#ffdf59	38	1	  
+510	nucleoside 2-deoxyribosyltransferase	DNA, RNA and nucleotide metabolism	#ffdf59	434	2	  
+511	nucleoside deoxyribosyltransferase	DNA, RNA and nucleotide metabolism	#ffdf59	22	2	  
+512	nucleoside triphosphate pyrophosphohydrolase	DNA, RNA and nucleotide metabolism	#ffdf59	593	1	  
+513	nucleoside triphosphate pyrophosphohydrolase	other	#838383	162	3	  
+514	nucleotidase	DNA, RNA and nucleotide metabolism	#ffdf59	13	1	  
+515	nucleotide kinase	other	#838383	797	8	  
+516	nucleotide pyrophosphohydrolase	other	#838383	251	3	  
+517	nucleotide-sugar epimerase	DNA, RNA and nucleotide metabolism	#ffdf59	254	1	  
+518	nucleotidyltransferase	DNA, RNA and nucleotide metabolism	#ffdf59	498	8	  
+519	nucloid associated Lsr2-like	DNA, RNA and nucleotide metabolism	#ffdf59	127	2	  
+520	nudix hydrolase	other	#838383	151	4	  
+521	ocr-like anti-restriction	moron, auxiliary metabolic gene and host takeover	#ff59f5	57	1	  
+522	outer membrane protein	other	#838383	309	4	  
+523	partition protein	DNA, RNA and nucleotide metabolism	#ffdf59	276	3	  
+524	partition protein ATPase	other	#838383	234	2	  
+525	pectate lyase	moron, auxiliary metabolic gene and host takeover	#ff59f5	12	2	  
+526	pectin lyase activity	moron, auxiliary metabolic gene and host takeover	#ff59f5	2	1	  
+527	pentameric base spike protein	tail	#07e9a2	14	1	  
+528	peptidase	other	#838383	589	26	  
+529	peptidase HslV family	other	#838383	143	1	  
+530	peptide deformylase	other	#838383	50	1	  
+531	peptide methionine sulfoxide reductase	other	#838383	115	1	  
+532	periplasmic protein	other	#838383	62	1	  
+533	peroxyredoxin antioxidant	other	#838383	66	1	  
+534	phosphatase	other	#838383	369	2	  
+535	phosphate transporter subunit	moron, auxiliary metabolic gene and host takeover	#ff59f5	24	1	  
+536	phosphatidylglycerophosphatase A	other	#838383	8	1	  
+537	phospho-2-dehydro-3-deoxyheptonate aldolase	moron, auxiliary metabolic gene and host takeover	#ff59f5	26	1	  
+538	phosphoadenosine phosphosulfate reductase	moron, auxiliary metabolic gene and host takeover	#ff59f5	378	4	  
+539	phosphodiesterase	other	#838383	19	4	  
+540	phosphoesterase	other	#838383	255	2	  
+541	phosphofructokinase	other	#838383	424	3	  
+542	phosphoheptose isomerase	moron, auxiliary metabolic gene and host takeover	#ff59f5	121	1	  
+543	phosphohydrolase	other	#838383	23	5	  
+544	phosphoribosyl transferase	other	#838383	87	3	  
+545	phosphoribosylaminoimidazole synthetase	moron, auxiliary metabolic gene and host takeover	#ff59f5	125	1	  
+546	phosphoribosylaminoimidazole-succinocarboxamide synthase	moron, auxiliary metabolic gene and host takeover	#ff59f5	134	1	  
+547	photosystem I psaA/psaB protein	moron, auxiliary metabolic gene and host takeover	#ff59f5	2	1	  
+548	photosystem II D1	moron, auxiliary metabolic gene and host takeover	#ff59f5	577	2	  
+549	photosystem II D2	moron, auxiliary metabolic gene and host takeover	#ff59f5	6	1	  
+550	pilin	moron, auxiliary metabolic gene and host takeover	#ff59f5	42	1	  
+551	pilot protein for DNA ejection	tail	#07e9a2	168	12	  
+552	plasmid antitoxin with HTH domain	moron, auxiliary metabolic gene and host takeover	#ff59f5	109	2	  
+553	plasmid stability	DNA, RNA and nucleotide metabolism	#ffdf59	244	1	  
+554	plastoquinol terminal oxidase	moron, auxiliary metabolic gene and host takeover	#ff59f5	33	1	  
+555	polarity suppression Psu-like by overcoming Rho	DNA, RNA and nucleotide metabolism	#ffdf59	39	2	  
+556	poly-gamma-glutamate hydrolase	other	#838383	33	1	  
+557	polymerase	DNA, RNA and nucleotide metabolism	#ffdf59	126	8	  
+558	polynucleotide kinase	other	#838383	612	3	  
+559	polynucleotide kinase/phosphorylase	other	#838383	27	1	  
+560	polysaccharide chain length determinant protein	moron, auxiliary metabolic gene and host takeover	#ff59f5	16	1	  
+561	polysaccharide deacetylase	moron, auxiliary metabolic gene and host takeover	#ff59f5	6	2	  
+562	porphyrin biosynthesis	moron, auxiliary metabolic gene and host takeover	#ff59f5	476	1	  
+563	portal protein	head and packaging	#3e83f6	13467	51	portal protein
+564	pre-neck appendage protein	connector	#35d7ff	33	2	  
+565	primase	DNA, RNA and nucleotide metabolism	#ffdf59	25	5	  
+566	primosomal protein	DNA, RNA and nucleotide metabolism	#ffdf59	108	5	  
+567	prohead	head and packaging	#3e83f6	153	4	  
+568	prohead protease inhibitor	head and packaging	#3e83f6	13	1	  
+569	protease	other	#838383	461	15	  
+570	protein kinase; inhibitor of host transcription; positively regulates RNaseIII; negatively on RNaseE	other	#838383	7	2	  
+571	protein with Ig domain	other	#838383	69	1	  
+572	pseudomurein endosiopeptidase	other	#838383	2	1	  
+573	pyramid forming protein	head and packaging	#3e83f6	13	1	  
+574	pyrophosphatase	other	#838383	78	3	  
+575	quaternary ammonium compound-resistance protein QacE	moron, auxiliary metabolic gene and host takeover	#ff59f5	107	1	  
+576	queuine tRNA-ribosyltransferase	moron, auxiliary metabolic gene and host takeover	#ff59f5	317	4	  
+577	quinone oxidoreductase TQO	moron, auxiliary metabolic gene and host takeover	#ff59f5	29	1	  
+578	radical SAM domain protein	other	#838383	12	1	  
+579	radical SAM domain-containing protein	other	#838383	129	10	  
+580	receptor binding tail protein	tail	#07e9a2	137	3	  
+581	recombinase	other	#838383	206	10	  
+582	recombination directionality factor	integration and excision	#fea328	66	4	  
+583	regulator of chromosome condensation	DNA, RNA and nucleotide metabolism	#ffdf59	54	3	  
+584	released from the phage upon host infection	other	#838383	377	4	  
+585	replication	DNA, RNA and nucleotide metabolism	#ffdf59	31	2	  
+586	replication helicase	DNA, RNA and nucleotide metabolism	#ffdf59	185	1	  
+587	replication initiation O-like	DNA, RNA and nucleotide metabolism	#ffdf59	1424	8	  
+588	replication initiation by nicking	DNA, RNA and nucleotide metabolism	#ffdf59	11	1	  
+589	replication initiation protein	DNA, RNA and nucleotide metabolism	#ffdf59	3417	48	replication initiation protein
+590	replication origin binding	DNA, RNA and nucleotide metabolism	#ffdf59	39	1	  
+591	replication protein	DNA, RNA and nucleotide metabolism	#ffdf59	274	15	  
+592	replication terminator	DNA, RNA and nucleotide metabolism	#ffdf59	151	2	  
+593	replicative helicase-primase	DNA, RNA and nucleotide metabolism	#ffdf59	45	1	  
+594	replisome organizer	DNA, RNA and nucleotide metabolism	#ffdf59	60	4	  
+595	replisome organizer DnaA-like	DNA, RNA and nucleotide metabolism	#ffdf59	19	1	  
+596	restriction alleviation ral	DNA, RNA and nucleotide metabolism	#ffdf59	141	1	  
+597	restriction endonuclease	DNA, RNA and nucleotide metabolism	#ffdf59	117	5	  
+598	restriction endonuclease II	DNA, RNA and nucleotide metabolism	#ffdf59	12	4	  
+599	restriction enzyme I	DNA, RNA and nucleotide metabolism	#ffdf59	3	1	  
+600	restriction enzyme III	DNA, RNA and nucleotide metabolism	#ffdf59	3	1	  
+601	rhodanese-related sulfurtransferase	other	#838383	135	2	  
+602	ribonuclease	DNA, RNA and nucleotide metabolism	#ffdf59	44	1	  
+603	ribonuclease toxin of AT system	moron, auxiliary metabolic gene and host takeover	#ff59f5	31	1	  
+604	ribonucleoside diphosphate reductase small subunit	DNA, RNA and nucleotide metabolism	#ffdf59	1010	3	  
+605	ribonucleoside reductase class II	DNA, RNA and nucleotide metabolism	#ffdf59	344	1	  
+606	ribonucleoside-diphosphate reductase beta subunit	DNA, RNA and nucleotide metabolism	#ffdf59	15	1	  
+607	ribonucleoside-diphosphate reductase large subunit	DNA, RNA and nucleotide metabolism	#ffdf59	1001	1	  
+608	ribonucleotide reductase	DNA, RNA and nucleotide metabolism	#ffdf59	455	11	  
+609	ribonucleotide reductase NrdA-like	DNA, RNA and nucleotide metabolism	#ffdf59	3	1	  
+610	ribonucleotide reductase alpha subunit	DNA, RNA and nucleotide metabolism	#ffdf59	28	1	  
+611	ribonucleotide reductase class Ia beta subunit	DNA, RNA and nucleotide metabolism	#ffdf59	30	3	  
+612	ribonucleotide reductase large subunit	DNA, RNA and nucleotide metabolism	#ffdf59	74	3	  
+613	ribose-phosphate pyrophosphokinase	other	#838383	226	1	  
+614	ribosomal protein S21	moron, auxiliary metabolic gene and host takeover	#ff59f5	4	1	  
+615	ribosomal protein S6 glutaminyl transferase	moron, auxiliary metabolic gene and host takeover	#ff59f5	56	1	  
+616	ribosome associated inhibitor A; zinc finger domain	moron, auxiliary metabolic gene and host takeover	#ff59f5	119	1	  
+617	ribulose-1;5-bisphosphate carboxylase/oxygenase small subunit	moron, auxiliary metabolic gene and host takeover	#ff59f5	37	1	  
+618	rolling circle DNA replication initiation	DNA, RNA and nucleotide metabolism	#ffdf59	42	1	  
+619	scaffolding protein	head and packaging	#3e83f6	34	1	  
+620	secreted protein	other	#838383	429	3	  
+621	segregation and condensation complex subunit ScpB	DNA, RNA and nucleotide metabolism	#ffdf59	75	2	  
+622	serine-threonine kinase	other	#838383	123	3	  
+623	short tail fiber protein	tail	#07e9a2	149	5	  
+624	sigma 54 modulation protein/ribosomal protein S30EA	other	#838383	12	1	  
+625	sigma factor	transcription regulation	#a861e3	120	4	  
+626	sigma factor for late transcription	transcription regulation	#a861e3	8	1	  
+627	sigma-K factor	transcription regulation	#a861e3	353	1	  
+628	signal peptide motif	other	#838383	27	1	  
+629	single strand DNA binding protein	DNA, RNA and nucleotide metabolism	#ffdf59	3552	31	single strand DNA binding protein
+630	single strand annealing protein	DNA, RNA and nucleotide metabolism	#ffdf59	132	3	  
+631	site-specific recombination directionality factor RDF	integration and excision	#fea328	830	4	  
+632	spackle periplasmic	other	#838383	94	1	  
+633	spanin	lysis	#f35f49	44	1	  
+634	spore coat protein	head and packaging	#3e83f6	17	1	  
+635	spore protease	other	#838383	14	1	  
+636	sporulation protein	moron, auxiliary metabolic gene and host takeover	#ff59f5	16	3	  
+637	sporulation stage III protein D	moron, auxiliary metabolic gene and host takeover	#ff59f5	9	1	  
+638	starvation-inducible transcriptional regulator	transcription regulation	#a861e3	168	1	  
+639	straight fibre tail protein	tail	#07e9a2	36	1	  
+640	stringent starvation protein Sspb-like	moron, auxiliary metabolic gene and host takeover	#ff59f5	12	1	  
+641	structural protein	head and packaging	#3e83f6	968	10	  
+642	structural protein with Ig domain	head and packaging	#3e83f6	510	1	  
+643	sulfatase-modifying factor enzyme	other	#838383	11	1	  
+644	superinfection exclusion	moron, auxiliary metabolic gene and host takeover	#ff59f5	132	3	  
+645	superinfection exclusion Sie-like	moron, auxiliary metabolic gene and host takeover	#ff59f5	13	1	  
+646	superinfection exclusion SieA-like	moron, auxiliary metabolic gene and host takeover	#ff59f5	15	1	  
+647	superinfection exclusion; inhibits SieB	moron, auxiliary metabolic gene and host takeover	#ff59f5	114	1	  
+648	superoxide dismutase precursor	moron, auxiliary metabolic gene and host takeover	#ff59f5	77	1	  
+649	tRNA amidotransferase	DNA, RNA and nucleotide metabolism	#ffdf59	102	1	  
+650	tRNA methyltransferase	other	#838383	32	2	  
+651	tRNA nucleotidyltransferase	DNA, RNA and nucleotide metabolism	#ffdf59	70	2	  
+652	tRNA splicing ligase	DNA, RNA and nucleotide metabolism	#ffdf59	139	1	  
+653	tRNA splicing ligase RtcB	DNA, RNA and nucleotide metabolism	#ffdf59	2	1	  
+654	tRNA synthetase	DNA, RNA and nucleotide metabolism	#ffdf59	3	2	  
+655	tRNA-His guanylyltransferase	DNA, RNA and nucleotide metabolism	#ffdf59	28	1	  
+656	tail appendage	tail	#07e9a2	14	1	  
+657	tail assembly chaperone	tail	#07e9a2	4455	96	tail assembly chaperone
+658	tail assembly protein	tail	#07e9a2	3579	14	tail assembly protein
+659	tail associated cell-wall hydrolase	other	#838383	188	1	  
+660	tail associated lysin	tail	#07e9a2	246	2	  
+661	tail chaperone protein	tail	#07e9a2	574	1	  
+662	tail chaperonin	tail	#07e9a2	37	1	  
+663	tail collar fiber protein	tail	#07e9a2	633	8	  
+664	tail collar protein	tail	#07e9a2	97	6	  
+665	tail completion	connector	#35d7ff	52	2	  
+666	tail completion or Neck1 protein	connector	#35d7ff	8526	10	tail completion or Neck1 protein
+667	tail fiber adhesin	tail	#07e9a2	137	2	  
+668	tail fiber assembly	tail	#07e9a2	1128	7	  
+669	tail fiber assembly protein	tail	#07e9a2	1374	6	  
+670	tail fiber chaperone	tail	#07e9a2	151	2	  
+671	tail fiber protein	tail	#07e9a2	7972	276	tail fiber protein
+672	tail fiber protein and host specificity	tail	#07e9a2	235	1	  
+673	tail fiber protein proximal subunit	tail	#07e9a2	157	2	  
+674	tail fiber protein/ lysozyme	tail	#07e9a2	13	2	  
+675	tail fiber protein; Ig-domain containing	tail	#07e9a2	8	1	  
+676	tail fiber protein; host specificity	tail	#07e9a2	107	5	  
+677	tail injection transglycosylase	other	#838383	16	1	  
+678	tail length tape measure protein	tail	#07e9a2	10195	161	tail length tape measure protein
+679	tail length tape measure protein chaperone	tail	#07e9a2	2	1	  
+680	tail needle knob	tail	#07e9a2	144	1	  
+681	tail needle protein	tail	#07e9a2	123	1	  
+682	tail protease	other	#838383	34	1	  
+683	tail protein	tail	#07e9a2	14066	237	tail protein
+684	tail protein XkdN-like	tail	#07e9a2	323	1	  
+685	tail protein and host specificity	tail	#07e9a2	112	3	  
+686	tail protein with endopeptidase activity	other	#838383	47	1	  
+687	tail protein with endopeptidase domain	other	#838383	378	1	  
+688	tail protein with lysin activity	tail	#07e9a2	210	4	  
+689	tail protein with peptidase activity	other	#838383	13	1	  
+690	tail sheath	tail	#07e9a2	4019	25	tail sheath
+691	tail sheath and receptor binding protein	tail	#07e9a2	6	1	  
+692	tail sheath stabilizer	tail	#07e9a2	497	1	  
+693	tail spike protein	tail	#07e9a2	491	34	  
+694	tail spike protein with colonic acid degradation activity	tail	#07e9a2	14	1	  
+695	tail terminator	connector	#35d7ff	6281	15	tail terminator
+696	tail tip protein Tal	head and packaging	#3e83f6	4	1	  
+697	tail tube	tail	#07e9a2	1484	1	  
+698	tail tube protein	tail	#07e9a2	1043	15	  
+699	tail tubular protein	tail	#07e9a2	12	1	  
+700	taurine catabolism dioxygenase	moron, auxiliary metabolic gene and host takeover	#ff59f5	3	1	  
+701	tellurite resistance	moron, auxiliary metabolic gene and host takeover	#ff59f5	245	3	  
+702	terminase	head and packaging	#3e83f6	344	12	  
+703	terminase large subunit	head and packaging	#3e83f6	13496	55	terminase large subunit
+704	terminase small subunit	head and packaging	#3e83f6	10133	72	terminase small subunit
+705	tetrahydrofolate dehydrogenase and cyclohydrolase	other	#838383	16	1	  
+706	thioredoxin domain	DNA, RNA and nucleotide metabolism	#ffdf59	1952	6	  
+707	threonine dehydratase	other	#838383	17	1	  
+708	thymidine kinase	other	#838383	236	2	  
+709	thymidylate kinase	other	#838383	308	5	  
+710	thymidylate synthase	DNA, RNA and nucleotide metabolism	#ffdf59	1774	15	  
+711	thymidylate synthase complementing protein	DNA, RNA and nucleotide metabolism	#ffdf59	12	1	  
+712	toxin	moron, auxiliary metabolic gene and host takeover	#ff59f5	485	14	  
+713	toxin of TA system	moron, auxiliary metabolic gene and host takeover	#ff59f5	47	1	  
+714	toxin-antitoxin system HicB-like	moron, auxiliary metabolic gene and host takeover	#ff59f5	274	1	  
+715	transaldolase	other	#838383	296	1	  
+716	transcription antiterminator	transcription regulation	#a861e3	23	3	  
+717	transcription factor	transcription regulation	#a861e3	40	4	  
+718	transcriptional activator	transcription regulation	#a861e3	820	5	  
+719	transcriptional regulator	transcription regulation	#a861e3	11008	127	transcriptional regulator
+720	transcriptional regulator WhiB-like	transcription regulation	#a861e3	157	12	  
+721	transcriptional regulator, D5-like	transcription regulation	#a861e3	379	1	  
+722	transcriptional repressor	transcription regulation	#a861e3	10797	57	transcriptional repressor
+723	transfer protein	other	#838383	23	1	  
+724	transglycosylase	other	#838383	232	18	  
+725	translation elongation factor	other	#838383	17	1	  
+726	translation initiation factor	other	#838383	11	1	  
+727	translation repressor	other	#838383	486	2	  
+728	translational regulator	other	#838383	19	1	  
+729	transmembrane protein	other	#838383	16	2	  
+730	transposase	integration and excision	#fea328	4281	43	transposase
+731	tryptophan halogenase	other	#838383	49	1	  
+732	tubulin PhuZ	DNA, RNA and nucleotide metabolism	#ffdf59	28	1	  
+733	type I-E anti-CRISPR protein	moron, auxiliary metabolic gene and host takeover	#ff59f5	13	1	  
+734	type I-F anti-CRISPR protein	moron, auxiliary metabolic gene and host takeover	#ff59f5	11	1	  
+735	tyrosyl-tRNA synthetase	DNA, RNA and nucleotide metabolism	#ffdf59	12	1	  
+736	undefined	unknown function	#c9c9c9	461589	104077	undefined
+737	universal stress protein	other	#838383	17	1	  
+738	unknown function	unknown function	#c9c9c9	3312	29	unknown function
+739	upper collar connector	connector	#35d7ff	74	1	  
+740	uracil-DNA glycosylase	DNA, RNA and nucleotide metabolism	#ffdf59	2	1	  
+741	valyl tRNA synthetase modifier	DNA, RNA and nucleotide metabolism	#ffdf59	121	2	  
+742	virion RNA polymerase	DNA, RNA and nucleotide metabolism	#ffdf59	68	1	  
+743	virion structural protein	head and packaging	#3e83f6	9492	411	virion structural protein
+744	virulence associated	other	#838383	466	1	  
+745	zinc carboxypeptidase	other	#838383	28	1	  
+746	zinc containing alcohol dehydrogenase superfamily	other	#838383	54	1	  
+747	zinc-finger domain protein	other	#838383	45	9	  
+748	zinc-finger protease	other	#838383	16	1	  
