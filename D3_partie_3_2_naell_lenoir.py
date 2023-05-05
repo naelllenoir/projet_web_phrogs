@@ -1,5 +1,6 @@
+#!/usr/bin/python
 '''
-D3_partie_3
+D3_partie_3_2_naell_lenoir.py
 Auteur : Naell Lenoir
 Ce programme permet de récupérer les données nécessaires à la réalisation d'un scatter plot :
 scatter plot avec un point par annotation fonctionnelle
