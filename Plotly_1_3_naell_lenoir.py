@@ -1,3 +1,16 @@
+#!/usr/bin/python
+'''
+Plotly_1_3_naell_lenoir.py
+Auteur : Naell Lenoir
+Ce programme permet de créer un bubble plot :
+Bubble plot (en grille) avec un point par famille virale et type d’hôte
+◦ en x : les types d’hôtes
+◦ en y : la famille virale
+◦ taille : nombre de virus 
+
+Pour afficher le graphique, il suffit de lancer le script.
+'''
+
 #pip install plotly
 #pip install pandas
 
@@ -29,7 +42,7 @@ with open("info_genomes.tsv", "r") as infos :
 			if li[12] not in dorderhost[host] :
 				dorderhost[host].append(li[12])
 
-print(dorderhost)					
+	
 
 for fam in virus_host_fam :
 	for host in virus_host_fam[fam] :
@@ -40,8 +53,6 @@ for fam in virus_host_fam :
 
 
 df=pd.DataFrame({'Host':list(host_class), 'Virus':list(viral_fam), 'Nb':list(nombre)})
-
-print(df)
 
 size=df['Nb']
 fig=go.Figure(data=[go.Scatter(x=df['Host'], y=df['Virus'], text=df['Nb'], mode='markers', marker=dict(size=size, sizemode='area', sizeref=max(size)/(30.**2), sizemin=2))])
