@@ -65,4 +65,4 @@ final.loc[(final['lenOG'] < 3000) & (final['phrog'] < 50), 'annotation'] = '  '
 
 
 ### Création du fichier csv ###
-final.to_csv("datafinal.csv", sep=("\t"))
+final.to_csv("data_d3_3_2_naell_lenoir.csv", sep=("\t"))
