@@ -2,14 +2,15 @@
 <html lang="fr">
   <head>
     <meta charset="utf-8" />
-    <title>Scatter Plot with D3.js</title>
+    <title>Scatter Plot partie 3.2 avec D3.js</title>
     <script src="https://d3js.org/d3.v6.min.js"></script>
   </head>
   <body>
     <svg width="600" height="400"></svg>
     <script>
-      d3.tsv("https://raw.githubusercontent.com/naelllenoir/projet_web_phrogs/main/datafinal.csv").then(function(data) {
-        // Définition des dimensions du graphique
+      d3.tsv("https://raw.githubusercontent.com/naelllenoir/projet_web_phrogs/main/data_d3_3_2_naell_lenoir.csv").then(function(data) {
+        
+	// Définition des dimensions du graphique
         var margin = { top: 150, right: 450, bottom: 100, left: 75 },
           width = 1200 - margin.left - margin.right,
           height = 500 - margin.top - margin.bottom;
@@ -22,7 +23,7 @@
           .append("g")
           .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-        // Mise à l'échelle des axes
+        // Mise à l'échelle des axes et du diamètre des points
         var x = d3
           .scaleLinear()
           .domain([0, 20500])
@@ -37,13 +38,11 @@
   	  .domain([d3.min(data, d => d.phrog), d3.max(data, d => d.phrog)])
   	  .range([1, 2]);
 
-	
         // Ajout des axes au graphique
         svg
           .append("g")
           .attr("transform", "translate(0," + height + ")")
           .call(d3.axisBottom(x));
-
         svg.append("g").call(d3.axisLeft(y));
 
         // Ajout des points au graphique
@@ -63,7 +62,6 @@
             return d.color;
           });
 
- 
         // Ajout des labels au graphique
         svg
           .selectAll("text")
@@ -88,7 +86,6 @@
     }
   })
           .attr("fill", d => d.color );
-
 
 	// Ajout du label de l'axe X 
 	svg
@@ -116,7 +113,6 @@
          .text("Scatter plot du nombre de protéines et du nombre de PhROGs par annotation et catégorie fonctionnelle")
          .style("text-decoration", "underline")
          .style("font-weight", "bold");
-
 
       // Ajout de la légende des couleurs
         var legend = svg.selectAll(".legend")
