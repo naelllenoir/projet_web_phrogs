@@ -10,6 +10,7 @@ scatter plot avec un point par annotation fonctionnelle
 Ce programme a été lancé pour créé le fichier csv présent dans le répertoire GitHub https://github.com/naelllenoir/projet_web_phrogs.
 Il n'est donc pas nécessaire de le relancer pour afficher le scatter plot avec le script graph_d3_3_2_naell_lenoir_final.html,
 car le fichier a été importé dans le répertoire GitHub.
+Il suffit de lancer le fichier html pour faire apparaître le graphe.
 '''
 
 # pip install pandas
