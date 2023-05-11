@@ -14,7 +14,9 @@ car le fichier a été importé dans le répertoire GitHub.
 Il suffit de lancer le fichier html pour faire apparaître le graphe.
 '''
 
-# pip install pandas
+### Importation ###
+#import os
+#os.system('pip install pandas')
 
 from collections import defaultdict
 import pandas as pd
