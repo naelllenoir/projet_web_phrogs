@@ -12,6 +12,7 @@ Ce programme a été lancé pour créé le fichier csv présent dans le réperto
 Il n'est donc pas nécessaire de le relancer pour afficher le scatter plot avec le script graph_d3_3_2_naell_lenoir_final.html,
 car le fichier a été importé dans le répertoire GitHub.
 Il suffit de lancer le fichier html pour faire apparaître le graphe.
+Si les librairies nécessaires ne sont pas installées, il suffit de décommenter les commandes de la catégorie Importation.
 '''
 
 ### Importation ###
