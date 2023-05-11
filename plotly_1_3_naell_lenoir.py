@@ -1,6 +1,6 @@
 #!/usr/bin/python
 '''
-Plotly_1_3_naell_lenoir.py
+plotly_1_3_naell_lenoir.py
 Auteur : Naell Lenoir
 Ce programme permet de créer un bubble plot :
 Bubble plot (en grille) avec un point par famille virale et type d’hôte
@@ -8,10 +8,12 @@ Bubble plot (en grille) avec un point par famille virale et type d’hôte
 ◦ en y : la famille virale
 ◦ taille : nombre de virus 
 Pour afficher le graphique, il suffit de lancer le script.
+Si les librairies nécessaires ne sont pas installées, il suffit de décommenter les commandes de la catégorie Importation.
 '''
-
-#pip install plotly
-#pip install pandas
+### Importation ###
+#import os
+#os.system('pip install plotly')
+#os.system('pip install pandas')
 
 from collections import defaultdict
 import re
